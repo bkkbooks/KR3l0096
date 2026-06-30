@@ -1,0 +1,46 @@
+canonical_identifier: bkk:krp/KR3l0096/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR3l0096/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 漢武故事
+  date: '2015-08-24 23:40:29.299237'
+  source:
+    repository: kanripo
+    path: KR3l0096
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR3l0096_000-WYG.yaml, hash: 'sha256:4697bc46aec2323556e323bb96fb2237533968efccd0029093550bfaf213c512'}
+  - {seq: 1, filename: KR3l0096_001-WYG.yaml, hash: 'sha256:1d67e184c851dcf08a867b8513b968805f88c08a04a8935f34c171055f65d55b'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3l0096_000-WYG.markers.yaml, hash: 'sha256:6b2aa5d243f56cd75e6202c9119b7ed1a271003bf9c947a9f50a84a530e892f1'}
+  - {seq: 1, role: markers, filename: assets/KR3l0096_001-WYG.markers.yaml, hash: 'sha256:082428dd471757d40a89c1a0606567f349a65e0571e7df1ffccf0940d8276683'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3l0096_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 1028
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3l0096_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 2786
+  label: 漢武故事
+  type: section
+  level: 1
+hash: sha256:cbfdebe6c28061bc749ce8408fdb4d5985795f4d9484cd09419a0caba312f323
