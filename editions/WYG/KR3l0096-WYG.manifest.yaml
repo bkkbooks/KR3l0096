@@ -20,8 +20,8 @@ assets:
   - {seq: 0, filename: KR3l0096_000-WYG.yaml, hash: 'sha256:4697bc46aec2323556e323bb96fb2237533968efccd0029093550bfaf213c512'}
   - {seq: 1, filename: KR3l0096_001-WYG.yaml, hash: 'sha256:1d67e184c851dcf08a867b8513b968805f88c08a04a8935f34c171055f65d55b'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3l0096_000-WYG.markers.yaml, hash: 'sha256:6b2aa5d243f56cd75e6202c9119b7ed1a271003bf9c947a9f50a84a530e892f1'}
-  - {seq: 1, role: markers, filename: assets/KR3l0096_001-WYG.markers.yaml, hash: 'sha256:082428dd471757d40a89c1a0606567f349a65e0571e7df1ffccf0940d8276683'}
+  - {seq: 0, role: markers, filename: assets/KR3l0096_000-WYG.markers.yaml, hash: 'sha256:1b0857b6a23e17bd82f1421da8ace4c4fcebf2f5544b244d4b26703cd5d8f9f8'}
+  - {seq: 1, role: markers, filename: assets/KR3l0096_001-WYG.markers.yaml, hash: 'sha256:b04ccca08a3f17c487704c031c43f019c86bfed716ef63a0222123aeba98903d'}
 table_of_contents:
 - ref:
     seq: 0
@@ -43,4 +43,4 @@ table_of_contents:
   label: 漢武故事
   type: section
   level: 1
-hash: sha256:cbfdebe6c28061bc749ce8408fdb4d5985795f4d9484cd09419a0caba312f323
+hash: sha256:332a6c77a17ac28fc3fe57f823ccec4415c7164907fcec70894b7024cacef38e

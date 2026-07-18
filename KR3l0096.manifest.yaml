@@ -23,8 +23,8 @@ assets:
   - {seq: 0, filename: KR3l0096_000.yaml, hash: 'sha256:3914e38079d1e3a1d38c1b72d3f25ad955c96d91275d19b096a84483885652fc'}
   - {seq: 1, filename: KR3l0096_001.yaml, hash: 'sha256:accbca25f9ead980dfca9e71763713dd65083a950c7191f855a683341c0e168e'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3l0096_000.markers.yaml, hash: 'sha256:65e0aa20f8d3ccbf318c33150f854e351f9fff9526c9a80dedfba880891d0ead'}
-  - {seq: 1, role: markers, filename: assets/KR3l0096_001.markers.yaml, hash: 'sha256:374987bc15066739a2548a2165d6135d2795542241be8d0209d4289cc609010b'}
+  - {seq: 0, role: markers, filename: assets/KR3l0096_000.markers.yaml, hash: 'sha256:5dda6957550aad841de64ad4530fb997e9ecf119fab2cf64b0af349cd3783bed'}
+  - {seq: 1, role: markers, filename: assets/KR3l0096_001.markers.yaml, hash: 'sha256:57f8fd77d61074a849d87ecb2a3acc4d11de8557d1a7e283ef100787b7ad44e0'}
 table_of_contents:
 - ref:
     seq: 0
@@ -46,7 +46,7 @@ table_of_contents:
   label: 漢武故事
   type: section
   level: 1
-hash: sha256:04ddd1cdd90f249380f0fd22097830225c138068d5c2d1eca49967e1fa2d3288
+hash: sha256:a9a7e673ccbed5e57e75eb398c86d13fdd5da8225c22310fa15a3d76120855b1
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
